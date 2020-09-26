@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.joinventario.app"
+    versionCode = "10"
+    version     = "1.0.0" >
+  <name>Join Inventario</name>
+
+  <description>
+      Aplicacion de servicio especializado ofrecido para Grupo Join Soluciones.
+  </description>
+
+  <author href="http://burtonservers.com" email="burton@burtonservers.com">
+      Frank Montagne
+  </author>
+
+  <icon src="logo.png" />
+
+  <gap:plugin name="cordova-plugin-whitelist" source="npm" />
+
+  <allow-navigation href="http://*/*" />
+  <allow-intent href="https://*/*" />
+</widget>
