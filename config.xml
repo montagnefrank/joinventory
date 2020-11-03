@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "com.joinventario.app"
+    id          = "com.joinventory.app"
     versionCode = "10"
-    version     = "1.0.0" >
+    version     = "2.2.0" >
   <name>Join Inventario</name>
 
   <description>
-      Aplicacion de servicio especializado ofrecido para Grupo Join Soluciones.
+      Aplicacion de Inventarios ofrecido para Grupo Join.
   </description>
 
   <author href="http://burtonservers.com" email="burton@burtonservers.com">
